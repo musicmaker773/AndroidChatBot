@@ -9,3 +9,5 @@ One issue with this app is that each response from the server is delayed by one 
 Another thing is that the server right now is nonexistant. Back when we used to test it and presented it, the server was up and running. But now, the server is not running. Thankfully, I only took one screenshot to see what kind of responses it sent. You can see that in Capture10.png.
 I also put a zip file into the repository because there were way too many files to put in this repository. 
 You can run the file to see how it can run, but keep in mind, there aren't going to be any kind of responses.
+
+This project was written in Android Studio.
